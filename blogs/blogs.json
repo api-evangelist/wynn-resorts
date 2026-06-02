@@ -2,13 +2,13 @@
   "repo": "wynn-resorts",
   "feeds": [
     {
-      "source": "https://www.newsroom.wynnresorts.com/",
-      "feed_url": "",
+      "source": "https://www.wynnresorts.com/careers/wynn-university",
+      "feed_url": "https://www.wynnresorts.com/careers/wynn-university",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
