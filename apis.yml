@@ -1,4 +1,6 @@
 aid: wynn-resorts
+tags:
+  - Fortune 500
 url:
   https://raw.githubusercontent.com/api-evangelist/wynn-resorts/refs/heads/main/apis.yml
 modified: '2026-05-03'
