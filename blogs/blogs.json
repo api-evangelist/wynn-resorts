@@ -3,19 +3,12 @@
   "feeds": [
     {
       "source": "https://www.newsroom.wynnresorts.com/",
-      "feed_url": "https://www.newsroom.wynnresorts.com/",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.wynnresorts.com/careers/wynn-university",
-      "feed_url": "https://www.wynnresorts.com/careers/wynn-university",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "feed_url": "",
+      "saved": 1,
+      "method": "agent-scrape"
     }
   ],
-  "fetched": "2026-06-14T20:42:17Z",
-  "post_count": 0
+  "post_count": 1,
+  "fetched": "2026-06-27T13:22:00Z",
+  "agent_pulled": "2026-06-27"
 }
