@@ -6,6 +6,8 @@ url:
 modified: '2026-05-03'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/wynn-resorts-domain-security.yml
   - type: Website
     url: https://www.wynnresorts.com
   - type: Contact
