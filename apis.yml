@@ -1,4 +1,5 @@
 aid: wynn-resorts
+name: "Wynn Resorts"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
