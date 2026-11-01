@@ -1,4 +1,4 @@
-# Wynn Resorts (wynn-resorts)
+# Wynn Resorts
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,79 +66,81 @@
 
 Wynn Resorts is a developer, owner, and operator of integrated luxury resorts and casinos, with properties in Las Vegas, Boston Harbor, and Macau. The company does not currently publish a public developer portal or API documentation.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/wynn-resorts/refs/heads/main/apis.yml)
+**Areas:** Fortune 500
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Wynn Resorts on APIs.io
 
-## Timestamps
+Everything profiled for Wynn Resorts is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/wynn-resorts/](https://apis.io/providers/wynn-resorts/)** — or go straight to one of the APIs or properties below.
 
-- **Modified:** 2026-05-03
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Wynn Resorts Domain Security](https://apis.io/security/wynn-resorts/wynn-resorts-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.wynnresorts.com)
-- [Contact](https://www.wynnresorts.com/contact)
-- [Careers](https://www.wynnresorts.com/careers)
-- [Customers](https://www.wynnresorts.com/careers/who-we-are)
-- [Training](https://www.wynnresorts.com/careers/wynn-university)
 - [Blog](https://www.newsroom.wynnresorts.com/)
-- [Newsletter](https://www.newsroom.wynnresorts.com/en/wynnresorts)
-- [TermsOfService](https://www.visitwynn.com/tc/index.cfm?term_id=708708)
-- [PrivacyPolicy](https://www.wynnlasvegas.com/privacy-notice)
-- [DataPrivacy](https://www.wynnlasvegas.com/cookie-notice)
 - [Compliance](https://www.wynnresorts.com/esg/responsibility-at-wynn)
-- [LinkedIn](https://www.linkedin.com/company/wynnresorts)
-- [X](https://twitter.com/wynnsocial)
+- [Terms of service](https://www.visitwynn.com/tc/index.cfm?term_id=708708)
+- [Privacy policy](https://www.wynnlasvegas.com/privacy-notice)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Integrated Luxury Resorts | Operates five integrated luxury resort destinations spanning Las Vegas, Boston Harbor, Macau, Cotai, and Mayfair, with another property under development on Al Marjan Island. |
-| Casino Gaming | Full-service casino gaming experiences across all flagship properties, including table games, slots, and high-limit gaming salons. |
-| Hotel Accommodations | 9,667 luxury rooms and suites across the portfolio, including Forbes Five-Star recognized accommodations. |
-| Fine Dining | 81 restaurants across the portfolio, ranging from Michelin-recognized fine dining to casual eateries and lounges. |
-| Luxury Retail | 200 luxury retail outlets featuring designer boutiques, jewelry, fashion, and lifestyle brands within the resort properties. |
-| Spa and Wellness | Forbes Five-Star spas and wellness centers offering treatments, fitness, and salon services to guests. |
-| Meetings and Conventions | Meeting, convention, and event spaces designed to host corporate gatherings, weddings, and large-scale events. |
-| Entertainment and Nightlife | Live entertainment, nightclubs, dayclubs, and theater productions across resort properties. |
-| Five-Star Service | Holder of 22 Forbes Five-Star Awards, more than any other independent hotel company in the world. |
+**Kin Score 9.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 33.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 28.9 |
 
-| Name | Description |
-|------|-------------|
-| Luxury Travel and Leisure | Travelers seeking luxury accommodations, dining, and entertainment for vacations and getaways. |
-| Corporate Meetings and Events | Companies hosting conferences, sales meetings, training events, and incentive trips at Wynn convention spaces. |
-| Weddings and Celebrations | Couples and families hosting weddings, anniversaries, and milestone celebrations at Wynn properties. |
-| Casino Gaming and VIP Hospitality | Casino patrons and VIP guests engaging with table games, slots, and curated high-limit experiences. |
-| Fine Dining and Culinary Experiences | Diners visiting Wynn properties for award-winning restaurants, chef's tables, and tasting menus. |
-| Designer Retail Shopping | Shoppers visiting the luxury esplanades and boutiques located within Wynn resort properties. |
-| Spa, Wellness, and Beauty | Guests booking spa treatments, fitness, salon services, and wellness experiences. |
-| Investor Relations and Reporting | Investors, analysts, and financial stakeholders accessing Wynn Resorts financial reports, SEC filings, and corporate governance information. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Wynn Las Vegas | Flagship Las Vegas property combining Wynn and Encore towers with 4,748 rooms, casino, dining, and retail. |
-| Encore Boston Harbor | Resort and casino in Everett, Massachusetts with 671 rooms on the Mystic River waterfront. |
-| Wynn Macau and Encore Macau | Integrated resort in Macau SAR offering 1,010 rooms and suites with casino, dining, and retail. |
-| Wynn Palace Cotai | Cotai Strip integrated resort with 1,706 rooms, suites, and villas, plus performance lake and SkyCab. |
-| Wynn Mayfair | London gaming and dining club expanding the Wynn brand into the United Kingdom market. |
-| Wynn Al Marjan Island | Integrated resort under development on Al Marjan Island, Ras Al Khaimah, UAE, scheduled to open Spring 2027. |
-| Wynn Design and Development | In-house design and development arm responsible for the design, construction, and renovation of Wynn properties. |
-| Wynn Aviation | Aviation services arm supporting executive and guest travel across the Wynn property portfolio. |
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
-## Solutions
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/wynn-resorts/](https://apis.io/providers/wynn-resorts/).
 
-| Name | Description |
-|------|-------------|
-| Hospitality and Lodging | Hotel rooms, suites, villas, and serviced accommodations across the integrated resort portfolio. |
-| Gaming and Casino | Casino floor operations, table games, slots, sportsbook, and high-limit gaming experiences. |
-| Food and Beverage | Restaurants, lounges, bars, in-room dining, and catering operations across all resort properties. |
-| Retail | Curated luxury retail boutiques and brand partnerships operated within Wynn resort esplanades. |
-| Entertainment and Nightlife | Concert venues, nightclubs, dayclubs, theater shows, and special event programming. |
-| Meetings, Incentives, Conferences, and Events | Convention, meeting, and event hosting solutions ranging from boardrooms to large-scale ballrooms. |
-| Spa, Salon, and Wellness | Spa treatments, fitness facilities, salons, and curated wellness programs. |
-| ESG and Responsibility | Environmental, social, and governance programs covering responsible gaming, sustainability, and community engagement. |
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Wynn Resorts: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/wynn-resorts/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
